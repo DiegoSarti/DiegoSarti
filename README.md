@@ -2,13 +2,6 @@
 
 Me chamo Diego Sarti, tenho 19 anos. Concluí o ensino médio no Colegio São luiz de Gonzaga. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no SENAC. Sou apaixonado por tecnologia.
 <p align="left">
-    <a href="https://github.com/DiegoSarti?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/DiegoSarti?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
     <a href="https://github.com/DiegoSarti?tab=followers">
         <img 
             alt="Seguidores" 
