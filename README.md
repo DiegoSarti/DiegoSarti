@@ -1,6 +1,4 @@
-# 👩🏻‍💻 Larissa Kich
-
-**`Desenvolvedora FullStack`**
+# Diego Sarti
 
 Me chamo Diego Sarti, tenho 19 anos. Concluí o ensino médio no Colegio São luiz de Gonzaga. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no SENAC. Sou apaixonado por tecnologia.
 <p align="left">
